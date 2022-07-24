@@ -1,0 +1,4 @@
+Graph of messages per day
+vocab adaption in single chat
+vocab differences between multiple chats
+vocab differences between participants
